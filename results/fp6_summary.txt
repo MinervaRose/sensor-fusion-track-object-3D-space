@@ -1,0 +1,26 @@
+Combo                         Mod     N     Mean   Median   StdDev
+-----------------------------------------------------------------
+AKAZE_BRISK                   CAM    18    12.65    12.53     2.62
+AKAZE_BRISK                   LID    18    11.73    12.25     2.37
+BRISK_BRISK                   CAM    18    14.52    14.14     4.29
+BRISK_BRISK                   LID    18    11.73    12.25     2.37
+FAST_BRISK                    CAM    18    13.29    11.51     4.08
+FAST_BRISK                    LID    18    11.73    12.25     2.37
+HARRIS_BRIEF                  CAM     0      nan      nan      nan
+HARRIS_BRIEF                  LID     0      nan      nan      nan
+HARRIS_BRISK                  CAM     0      nan      nan      nan
+HARRIS_BRISK                  LID     0      nan      nan      nan
+HARRIS_FREAK                  CAM     0      nan      nan      nan
+HARRIS_FREAK                  LID     0      nan      nan      nan
+HARRIS_ORB                    CAM     0      nan      nan      nan
+HARRIS_ORB                    LID     0      nan      nan      nan
+HARRIS_SIFT                   CAM     0      nan      nan      nan
+HARRIS_SIFT                   LID     0      nan      nan      nan
+ORB_BRISK                     CAM    11    16.67    11.10    13.08
+ORB_BRISK                     LID    18    11.73    12.25     2.37
+SHITOMASI_BRISK               CAM    17    16.07    11.41    13.68
+SHITOMASI_BRISK               LID    18    11.73    12.25     2.37
+SIFT_BRISK                    CAM    18    11.50    11.75     2.66
+SIFT_BRISK                    LID    18    11.73    12.25     2.37
+
+Saved CSV summary to: results/fp6_summary.csv
